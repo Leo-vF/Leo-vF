@@ -1,4 +1,4 @@
-<img style="margin-top:24px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=leo-vf&show_icons=true&locale=en&layout=compact" alt="leo-vf" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=leo-vf&show_icons=true&locale=en&layout=compact" alt="leo-vf" />
 
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="36px">, I'm Leo
 
