@@ -5,5 +5,7 @@
 [![mail](https://img.shields.io/static/v1?label=Mail%20me&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:vonfoerster.leo@gmail.com)
 
 👨‍💻 A curious Developer
+
 🚧 Current Project: [Multiplayer Minesweeper](https://github.com/Leo-vF/multiplayer-minesweeper)
+
 ⚙️ I mostly use `.py`, `.dart`, `.ino`
