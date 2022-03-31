@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">, I'm Leo </h2>
+<h1 align="center"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">, I'm Leo </h1>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=leo-vf&show_icons=true&locale=en&layout=compact" alt="leo-vf" />
 
